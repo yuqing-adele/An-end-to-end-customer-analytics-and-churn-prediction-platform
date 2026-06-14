@@ -1,0 +1,26 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated DuckDB warehouse (recreated by `python run_pipeline.py`)
+db/
+
+# Raw theLook eCommerce CSVs - large, not committed (see README for how to obtain)
+ecommerce/*.csv
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
