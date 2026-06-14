@@ -1,5 +1,7 @@
 # Customer Analytics & Churn Prediction Platform
 
+### 🚀 [Live Dashboard](https://an-end-to-end-customer-analytics-and-churn-prediction-platform.streamlit.app/)
+
 **Author:** Adele
 
 An end-to-end customer analytics and churn-prediction platform built on the
